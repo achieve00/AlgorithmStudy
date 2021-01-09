@@ -1,8 +1,7 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
-/*이게 맞는지 모르겠지만??? 출력값이 같으니 넘어가죠??*/
 
-/*
+
 void main() {
 	int H, M;
 	int a;
@@ -21,4 +20,4 @@ void main() {
 		M = M - 45;
 	}
 	printf("%d %d", H, M);
-} */
+} 
