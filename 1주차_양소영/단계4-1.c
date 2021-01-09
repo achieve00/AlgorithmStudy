@@ -1,6 +1,6 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
-/*
+
 void main() {
 	int A, B;
 	while (1) {
@@ -10,4 +10,4 @@ void main() {
 		}
 		printf("%d\n", A + B);
 	}
-}*/
+}
