@@ -60,10 +60,6 @@
 > 공부 진행은 백준 단계별 문제 풀이를 기준으로 한다.  <br>
 
 **2021.01.01 ~ 01.09** : 1. 입출력과 사칙연산 ~ 4. while문<br> 
-**문제풀이**<br>
-[Week1_성아영](https://github.com/achieve00/AlgorithmStudy/tree/week-1/1%EC%A3%BC%EC%B0%A8_%20%EC%84%B1%EC%95%84%EC%98%81)<br>
-[Week1_양소영](https://github.com/achieve00/AlgorithmStudy/tree/week-1/1%EC%A3%BC%EC%B0%A8_%EC%96%91%EC%86%8C%EC%98%81)<br>
-[Week1_하유진](https://github.com/achieve00/AlgorithmStudy/tree/week-1/1%EC%A3%BC%EC%B0%A8_%ED%95%98%EC%9C%A0%EC%A7%84)<br>
 
 -----
 ## 참조
