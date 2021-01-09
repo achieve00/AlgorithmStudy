@@ -1,16 +1,16 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
-/*
+
 void main() {
 	int N;
 	scanf(" %d", &N);
-	for (int i = 0; i < N; i++) { //¸î ¹øÂ° ÁÙ?
+	for (int i = 0; i < N; i++) { //Â¸Ã® Â¹Ã¸Ã‚Â° ÃÃ™?
 		for (int j = 0;j <= (N-i); j++) {
 			printf(" ");
 		}
-		for (int j = 0; j <= i; j++) { //¸î °³ Ãâ·Â?
+		for (int j = 0; j <= i; j++) { //Â¸Ã® Â°Â³ ÃƒÃ¢Â·Ã‚?
 			printf("*");
 		}
 		printf("\n");
 	}
-}*/
+}
