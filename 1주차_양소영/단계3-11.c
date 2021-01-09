@@ -1,6 +1,6 @@
 #include <stdio.h>
 #pragma warning(disable:4996)
-/*
+
 void main() {
 	int N, X, a;
 	scanf(" %d %d", &N, &X);
@@ -11,4 +11,4 @@ void main() {
 			printf("%d ", a);
 		}
 	}
-}*/
+}
