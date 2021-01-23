@@ -1,12 +1,12 @@
 #include <stdio.h>
-/*
+
 void main() {
-	int W, H, N, room, floor, num = 1; //roomÀº È£½Ç, floor´Â Ãş
+	int W, H, N, room, floor, num = 1; //roomì€ í˜¸ì‹¤, floorëŠ” ì¸µ
 	scanf_s(" %d", &num);
 	for (int i = 0; i < num; i++) {
 		scanf_s("%d %d %d", &H, &W, &N);
-		floor = N % H; //Ãş¼ö´Â N % H
-		room = (N / H) + 1; //È£½ÇÀº ( N / H )+1
+		floor = N % H; //ì¸µìˆ˜ëŠ” N % H
+		room = (N / H) + 1; //í˜¸ì‹¤ì€ ( N / H )+1
 		printf("%d%02d\n", floor, room);
 	}
-}*/
+}
