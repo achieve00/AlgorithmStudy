@@ -48,7 +48,7 @@
 * 상대방에세 받은 피드백과 코드에 자신이 적용한 해결방법을 정리해서 REDME.md에 작성하고 source/해당코드가 있는 폴더에 없로드한다.
 * 코드에 주석을 달면 시간이 지나고 다시 볼 때 빠른 이해에 도움이 된다.
 
-*반드시 지키는 것보단 자신에게 맞는 공부법을 찾아가는게 목표인걸 잊지말자.
+*반드시 지키는 것보단 자신에게 맞는 공부법을 찾아가는게 목표인걸 잊지말자.<br>
 <br>
 ## study_tip
 * 처음부터 어려운 걸 하지 말고, **간단한 것**부터 시작.
@@ -70,7 +70,7 @@
 [Week2 양소영](https://github.com/achieve00/AlgorithmStudy/tree/week-2/2%EC%A3%BC%EC%B0%A8_%EC%96%91%EC%86%8C%EC%98%81_%EA%B8%B0%EB%B3%B8%EC%88%98%ED%95%991)<br>
 [Week2 하유진](https://github.com/achieve00/AlgorithmStudy/tree/week-2/2%EC%A3%BC%EC%B0%A8_%ED%95%98%EC%9C%A0%EC%A7%84/%EA%B8%B0%EB%B3%B8%EC%88%98%ED%95%991)<br>
 
-**2021.01.24 ~ 01.30** : 9.기본수학2
+**2021.01.24 ~ 01.30** : 9. 기본수학2<br> 
 -----
 ## 참조
 * [알고리즘 공부법](https://gmlwjd9405.github.io/2018/05/14/how-to-study-algorithms.html)
