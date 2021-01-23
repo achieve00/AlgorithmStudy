@@ -65,7 +65,7 @@
 [Week1_양소영](https://github.com/achieve00/AlgorithmStudy/tree/week-1/1%EC%A3%BC%EC%B0%A8_%EC%96%91%EC%86%8C%EC%98%81)<br>
 [Week1_하유진](https://github.com/achieve00/AlgorithmStudy/tree/week-1/1%EC%A3%BC%EC%B0%A8_%ED%95%98%EC%9C%A0%EC%A7%84)<br>
 
-**2021.01.10 ~ 01.16** : 5. 일차원 배열 ~ 8. 기본수학1
+**2021.01.10 ~ 01.23** : 5. 일차원 배열 ~ 8. 기본수학1
 
 -----
 ## 참조
