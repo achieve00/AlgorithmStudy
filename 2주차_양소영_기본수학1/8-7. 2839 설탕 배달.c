@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 void main() {
 	int num;
 	int count = 0;
@@ -14,7 +14,7 @@ void main() {
 			num = num - 3;
 			count++;
 		}
-		else if (num > 5) { //5À¸·Îµµ 3À¸·Îµµ ¾È ³ª´²Áú ¶§
+		else if (num > 5) { //5ìœ¼ë¡œë„ 3ìœ¼ë¡œë„ ì•ˆ ë‚˜ëˆ ì§ˆ ë•Œ
 			num = num - 5;
 			count++;
 		}
@@ -24,4 +24,4 @@ void main() {
 		}
 	}
 	printf("%d", count);
-}*/
+}
