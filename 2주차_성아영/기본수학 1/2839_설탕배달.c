@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int cnt = 0;	//ºÀÁö ¼ö
+	int cnt = 0;	
 	int N; //Nkg
 
 	scanf_s("%d", &N);
