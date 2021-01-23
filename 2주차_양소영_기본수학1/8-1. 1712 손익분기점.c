@@ -1,13 +1,13 @@
 #include <stdio.h>
-/*
+
 void main() {
 	int A, B, C, price = 0;
 	scanf_s("%d %d %d", &A, &B, &C);
-	price = A / (C - B); //C * num(numÀº ¹°°Ç ÆÇ¸Å·®) = A + (B * num)À» Á¤¸®ÇÔ
-	if (B >= C) { //¸¸¾à °¡º¯ ºñ¿ëÀÌ ¹°°Ç °¡°Ýº¸´Ù ³ô°Å³ª °°´Ù¸é = ¹°°Ç°ªÀ» Àß¸ø ¼³Á¤ÇÑ °æ¿ì
+	price = A / (C - B); //C * num(numì€ ë¬¼ê±´ íŒë§¤ëŸ‰) = A + (B * num)ì„ ì •ë¦¬í•¨
+	if (B >= C) { //ë§Œì•½ ê°€ë³€ ë¹„ìš©ì´ ë¬¼ê±´ ê°€ê²©ë³´ë‹¤ ë†’ê±°ë‚˜ ê°™ë‹¤ë©´ = ë¬¼ê±´ê°’ì„ ìž˜ëª» ì„¤ì •í•œ ê²½ìš°
 		printf("-1");
 	}
 	else {
-		printf("%d", price+1); //ÃÖÃÊ·Î ÀÌÀÍÀÌ ¹ß»ýÇÏ´Â ÆÇ¸Å·® Ãâ·Â
+		printf("%d", price+1); //ìµœì´ˆë¡œ ì´ìµì´ ë°œìƒí•˜ëŠ” íŒë§¤ëŸ‰ ì¶œë ¥
 	}
-}*/
+}
