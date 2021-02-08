@@ -9,3 +9,5 @@ def solution(m, n):
 
     if count == 2:
         print(i)
+        
+print(solution(m, n))        
